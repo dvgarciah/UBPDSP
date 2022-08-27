@@ -18,7 +18,7 @@ This project focuses on the responses obtained by developers from Latin America;
 2. Which location has the highest salary growth?
 3. Which location has the highest career satisfaction?
 
-From the results obtained from the three previous questions, I wrote written a blog.
+From the results obtained from the three previous questions, I wrote written a blog: https://medium.com/@dvgarciah/what-is-the-perspective-of-developers-in-latin-america-f7bf1871c985
 
 ## File Descriptions
 1. stack-overflow-developer-survey-2017 - The original data set containing the file in csv format containing the survey results
